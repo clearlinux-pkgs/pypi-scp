@@ -1,5 +1,5 @@
 PKG_NAME := pypi-scp
-URL = https://files.pythonhosted.org/packages/4f/23/04031990ed14eb1852756d5186bcd16077132c33568e41258564d3fcd90b/scp-0.14.2.tar.gz
+URL = https://files.pythonhosted.org/packages/3d/63/709e0043f8961aaa7d2878e5184347f503d8ebc34dc28d08d7bfdfb9cffb/scp-0.14.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
