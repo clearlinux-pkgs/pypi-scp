@@ -4,7 +4,7 @@
 #
 Name     : pypi-scp
 Version  : 0.14.4
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/01/96/82028abe87441ae172ce9df2eeb46274130475bfeeb4dedeaddaf75b16a9/scp-0.14.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/01/96/82028abe87441ae172ce9df2eeb46274130475bfeeb4dedeaddaf75b16a9/scp-0.14.4.tar.gz
 Summary  : scp module for paramiko
